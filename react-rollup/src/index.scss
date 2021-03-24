@@ -1,0 +1,8 @@
+$static-directory-path: "@react-components-attempt/styles/assets";
+$font-path: "@react-components-attempt/styles/assets/fonts";
+@import "@react-components-attempt/styles/abstracts/variables";
+@import "@react-components-attempt/styles/main.scss";
+
+h1 {
+  color: $bizz-red;
+}

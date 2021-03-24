@@ -9,7 +9,7 @@ npm install
 npm run start
 ```
 
-**Warning** `react-scripts` insists on setting `jsx` to `react-jsx` in `tsconfig`, you need to set it back to `jsx` manually when you get strange typescript errors.
+**Warning** `react-scripts` insists on setting `jsx` to `react-jsx` in `tsconfig`, you need to set it back to `react` manually when you get strange typescript errors.
 
 ## With `rollup`
 

@@ -3,7 +3,7 @@
 ## With `create-react-app`
 
 ```
-npx degit idris-maps/rca-starter/cra-p my-app
+npx degit idris-maps/rca-starters/cra-p my-app
 cd my-app
 npm install
 npm run start
@@ -14,7 +14,7 @@ npm run start
 ## With `rollup`
 
 ```
-npx degit idris-maps/rca-starter/react-rollup my-app
+npx degit idris-maps/rca-starters/react-rollup my-app
 cd my-app
 npm install
 npm run dev
